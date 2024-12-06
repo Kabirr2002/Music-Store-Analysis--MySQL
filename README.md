@@ -3,6 +3,7 @@ Project Summary
 This project demonstrates the use of SQL queries to analyze a music store database. it showcases the ability to extract relevant information, perform calculations, and answer various business-related questions
 
 **Queries:**
+
 Q1: Find the most senior employee based on their job title.
 
 Q2: identify the country with the most invoices.

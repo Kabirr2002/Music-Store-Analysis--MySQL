@@ -4,7 +4,7 @@ This project demonstrates the use of SQL queries to analyze a music store databa
 
 **Queries:**
 
-Q1: Find the most senior employee based on their job title.
+**Q1: Find the most senior employee based on their job title.
 
 Q2: identify the country with the most invoices.
 
@@ -21,7 +21,18 @@ Q7: Find the top 10 artists who have written the most Rock music in the dataset.
 Q8: List all track names and their lengths (in milliseconds) that are longer than average song length, orderes by their length with the longest ones listed first.
 
 **Benefits**
+
 This project demonstrates the following skills and benefits:
 
+- Data extraction and analysis: Ability to extract relevant information from the database to answer specific questions.
 
+- Calculations and aggregations: Performing calculations (e.g., average song length, total invoice amount) and grouping data by specific criteria.
+
+- Join operations: Combining data from different tables for deeper insights.
+
+- Filtering and sorting: Targeting specific data subsets and presenting them in a meaningful order.
+
+Overall, this project highlights the power of SQL in understanding and utilizing large datasets, demostrating its value business and data analysts.
+
+**
 

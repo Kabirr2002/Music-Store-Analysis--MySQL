@@ -27,7 +27,12 @@ Benefits:
 This project demonstrates the following skills and benefits:
 
 • Data extraction and analysis: Ability to extract relevant information from the database to answer specific questions.
+
 • Calculations and aggregation: Performing calculations (e.g., average song length, total invoice amount) and grouping data by specific criteria.
+
 • Join operations: Combining data from different tables for deeper insights.
+
 • Filtering and sorting: Targeting specific data subsets and presenting them in a meaningful order.
+
+
 Overall, this project highlights the power of SQL in understanding and utilizing large datasets, demonstrating its value for businesses and data analysts.

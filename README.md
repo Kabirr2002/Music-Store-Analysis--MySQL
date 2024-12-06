@@ -13,3 +13,7 @@ Q7: Find the top 10 artists who have written the most Rock music in the dataset.
 Q8: List all track names and their lengths (in milliseconds) that are longer than average song length, orderes by their length with the longest ones listed first.
 
 **Benefits**
+This project demonstrates the following skills and benefits:
+
+
+
